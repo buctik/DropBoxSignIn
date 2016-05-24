@@ -46,6 +46,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Not sure about
 1. How do you link back buttons
 2. How swift files Xib files nib files and all that stuff relates to each other
+3. I lost the entire repo during commit... I added the repo by choosing 'create' in the github software. but then in the tutorial it said just do 'add' so then I deleted the repo in github's software not realizing that would delete the whole repo! then I 'added' a new one and called it DropBoxSignIn just like before. but the whole main.storyboard is empty now.. :(
+
 
 
 * Any libraries or borrowed content.
